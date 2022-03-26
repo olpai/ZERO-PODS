@@ -1,4 +1,4 @@
-import { getLastRaceResults } from "./api";
+import { getLastRaceResults } from "./api/actions";
 
 function App() {
   return (
